@@ -1,12 +1,13 @@
 <!DOCTYPE html>
 <HTML>
+    <body>
     <HEAD>
     <meta charset="utf-8">
     <TITLE>Summer Code Camp</TITLE>
     <link rel="stylesheet" type="text/css" href="style/vitrine.css">
     </HEAD>
 
-    <body>
+
     <?php include_once ("header.php"); ?>
     <header>
 
